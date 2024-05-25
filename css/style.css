@@ -1,0 +1,24 @@
+body {
+    background-image: url(../images/html_css.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wrapper {
+    padding-top: 250px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.html {
+    color: orange;
+}
+
+.css {
+    color: blue;
+}
