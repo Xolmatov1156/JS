@@ -36,11 +36,11 @@ var result = {
     task13:task13, 
     task14:task14, 
     task15:task15,
-    task15:task16,
-    task15:task17,
-    task15:task18,
-    task15:task19,
-    task15:task20,
+    task16:task16,
+    task17:task17,
+    task18:task18,
+    task19:task19,
+    task20:task20,
 }
 
 console.log(result);
